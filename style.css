@@ -7,9 +7,10 @@
     body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
+    background: #c090e3;
     }
     header {
-    background-color: #f0f0f0;
+    background-color: #9e13d5;
     }
     .logo{
     width: 70px;
@@ -81,4 +82,6 @@
     padding: 10px 0;
     }
     .footer {
-    text-align: center;}
+    text-align: center;
+    }
+  
